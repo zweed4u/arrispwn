@@ -1,0 +1,4 @@
+backup/
+backup.tar
+*.data
+sc_nvram_dump
