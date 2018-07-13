@@ -100,4 +100,4 @@ class Arris:
 
 pwn = Arris()
 password = pwn.generate_password()
-print(f'Password: {password}\nhttp://192.168.100.1/cgi-bin/tech_support_cgi\nhttp://192.168.100.1/')
+print(f'Password: {password}\nhttp://192.168.100.1/cgi-bin/tech_support_cgi\nhttp://192.168.100.1/\nhttp://192.168.100.1/cgi-bin/adv_pwd_cgi\nMake sure your local time is synced up with the modem\'s reported time')
